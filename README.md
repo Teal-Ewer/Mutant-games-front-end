@@ -4,38 +4,38 @@
 
 From the dev team that brought you *Duck Duck Shoe*.
 
-Mutant Games is an open source video game lobby service! Users can connect create and join lobbies for their favorite video games
+Mutant Games is an open source video game lobby service! Users can create and join lobbies to connect with their friends and chat about their favorite video games.
 
 <br>
 
 ## Getting Started:
 <hr>
 
-Here is a link to the [deployed applcation](https://www.example.com).
+Here are links to the [deployed applcation](https://www.example.com) and a [Trello Board](https://trello.com/b/K7ydDNPv/tmnt) containing planning materials.
 
 
 
-To run the project locally, first navigate to the [back-end repository](https://www.example.com) and follow the setup instructions in the README.
+To run the project locally:
 
-After you have cloned and initiated the back-end repository, proceed with the folling steps:
+1. Clone and initiate the [back-end repository](example.com) (following the step-by-step setup guide in the README)
 
-1. Move into the directory you want to clone this app into and run the command 
+2. Navigate to the directory you want to clone this app into and run the command 
 
  `git clone git@github.com:Team-Mutant/Mutant-games-front-end.git`
 
-2. After cloning the front-end project directory, run the command 
+3. After cloning the front-end project directory, run the command 
 
 `touch .env`
 
-3. Add the following line of code to the .env file you just created.
+4. Add the following line of code to the .env file you just created.
 
 `REACT_APP_BACKEND_SERVER_URL=http://localhost:3001`
 
-4. Install all dependencies by running the command 
+5. Install all dependencies by running the command 
 
 `npm i`
 
-5. Spin up the app by running the command 
+6. Spin up the app by running the command 
 
 `npm start`
 
@@ -52,6 +52,6 @@ This full-stack MERN application was built using:
  3. React
  4. Node.js
  5. Mongoose
- 6. 
+ 6. Heroku
 
 ## Next Steps:
